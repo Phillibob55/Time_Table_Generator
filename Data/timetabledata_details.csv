@@ -1,0 +1,130 @@
+﻿lecture_id,instructor_name,batch
+1,Mr. Sulaman,BSAIFA21M
+1,Mr. Sulaman,BSCSFA21M
+1,Mr. Sulaman,BSCSSP22
+1,Mr. Sulaman,BSSEFA21M
+2,Ms. Sumayya,BSCSSP22M
+3,Ms. Sumayya,BSCSSP22M
+4,Brig. Rafi,BSCSSP22
+4,Brig. Rafi,BSCSSP22M
+5,Hafiz Ahmad,BSCSSP22
+5,Hafiz Ahmad,BSCSSP22M
+6,Visiting1,BSCSSP22
+6,Visiting1,BSCSSP22M
+7,Mr. Umar,BSCSSP22
+7,Mr. Umar,BSCSSP22M
+8,Mr. Sulaman,BSCSFA21
+8,Mr. Sulaman,BSCSSP21M
+9,Ms. Qurut-ul-Ain,BSCSSP20
+9,Ms. Qurut-ul-Ain,BSSESP20
+10,Mr. Imran,BSCSFA21
+10,Mr. Imran,BSCSSP21M
+11,Mr. Imran,BSSEFA21
+11,Mr. Imran,BSSEFA21M
+12,Mr. Imran,BSCSFA21
+12,Mr. Imran,BSCSFA21M
+13,Mr. Imran,BSSEFA21
+14,Ms. Sana Mohsin,BSAIFA21
+14,Ms. Sana Mohsin,BSAIFA21M
+14,Ms. Sana Mohsin,BSCSFA21
+14,Ms. Sana Mohsin,BSCSFA21M
+15,Ms. Sana Mohsin,BSSEFA21
+15,Ms. Sana Mohsin,BSSEFA21M
+16,Mr. Tahir,BSAIFA21
+16,Mr. Tahir,BSAIFA21M
+16,Mr. Tahir,BSCSFA21
+16,Mr. Tahir,BSCSFA21M
+17,Mr. Tahir,BSSEFA21
+17,Mr. Tahir,BSSEFA21M
+18,Brig. Rafi,BSAIFA21
+18,Brig. Rafi,BSAIFA21M
+18,Brig. Rafi,BSCSFA21
+18,Brig. Rafi,BSCSFA21M
+19,Ms. Tahira,BSAIFA21
+19,Ms. Tahira,BSAIFA21M
+19,Ms. Tahira,BSCSFA21M
+19,Ms. Tahira,BSCSSP21
+20,Mr. Yasir,BSAIFA21
+20,Mr. Yasir,BSAIFA21M
+20,Mr. Yasir,BSCSSP21
+21,Ms. Sumayya,BSAIFA20
+21,Ms. Sumayya,BSCSSP21
+21,Ms. Sumayya,BSCSSP21M
+22,Ms. Sidra,BSAIFA20
+22,Ms. Sidra,BSCSSP21
+22,Ms. Sidra,BSCSSP21M
+23,Ms. Irum,BSCSSP21
+23,Ms. Irum,BSCSSP21M
+24,Ms. Mamoona,BSCSFA20
+25,Ms. Mamoona,BSSEFA20
+26,Ms. Raheela Bibi,BSSEFA20
+27,Ms. Raheela Bibi,BSCSFA20
+28,Dr. Saleem,BSAIFA21
+28,Dr. Saleem,BSAIFA21M
+28,Dr. Saleem,BSCSFA20
+29,Dr. Saleem,BSSEFA20
+30,Mr. Umar,BSCSSP20
+31,Dr. Iqra,BSAIFA21
+31,Dr. Iqra,BSCSSP20
+32,Dr. Nabeel,BSCSSP20
+32,Dr. Nabeel,BSSESP20
+33,Mr. Yasir,BSCSSP20
+33,Mr. Yasir,BSSESP20
+34,New Faculty,BSSEFA20
+35,Mr. Waqas,BSSESP20
+36,New Faculty,BSSEFA19
+37,Dr. Sana ,BSCSFA19
+38,Visiting2,BSCSFA19
+38,Visiting2,BSSEFA19
+39,Ms. Irum,BSCSFA19
+40,Ms. Aleena,BSCSFA19
+40,Ms. Aleena,BSSEFA19
+41,Mr. Tahir,BSAIFA20
+42,Mr. Umar,BSAIFA20
+43,Mr. Kaleem,BSCSFA20
+44,Mr. Kaleem,BSAIFA20
+45,Mr. Waqas,BSCSFA19
+45,Mr. Waqas,BSSEFA19
+46,Ms. Aleena,BSSEFA19
+47,Ms. Irum,BSCSFA20
+47,Ms. Irum,BSSESP20
+48,Dr. Jawad,BSCSSP20
+49,Mr. Kaleem,BSSEFA21
+49,Mr. Kaleem,BSSEFA21M
+50,Ms. Tahira,BSSEFA21
+50,Ms. Tahira,BSSEFA21M
+51,Ms. Wirda Anam,BSSEFA20
+51,Ms. Wirda Anam,BSSESP20
+52,Ms. Wirda Anam,BSCSFA19
+53,Mr. Hamid Ashfaq,BSSEFA20
+53,Ms. Raheela Bibi,BSSEFA20
+54,Mr. Hamid Ashfaq,BSCSFA20
+54,Ms. Raheela Bibi,BSCSFA20
+55,Ms. Mamoona,BSCSFA20
+55,Ms. Urwah Hassan,BSCSFA20
+56,Ms. Mamoona,BSSEFA20
+56,Ms. Urwah Hassan,BSSEFA20
+57,Mr. Hamid Ashfaq,BSAIFA21M
+57,Mr. Hamid Ashfaq,BSCSSP21
+57,Mr. Yasir,BSAIFA21
+58,Mr. Ramzan,BSAIFA20
+58,Mr. Tahir,BSAIFA20
+59,Mr. Ramzan,BSAIFA21
+59,Mr. Ramzan,BSCSFA21
+59,Mr. Ramzan,BSCSFA21M
+59,Ms. Sidra,BSAIFA21M
+60,Mr. Ramzan,BSSEFA21
+60,Ms. Sidra,BSSEFA21M
+61,Mr. Ramzan,BSCSSP22
+62,Ms. Aleena,BSCSFA19
+62,Ms. Qurut-ul-Ain,BSSEFA19
+63,Dr. Nabeel,BSSESP20
+63,Ms. Asma,BSSESP20
+64,Ms. Sidra,BSAIFA20
+65,Ms. Asma,BSCSSP22
+65,Ms. Qurut-ul-Ain,BSCSSP22
+66,Ms. Irum,BSCSFA20
+66,Ms. Irum,BSSESP20
+67,Ms. Irum,BSCSFA19
+68,Ms. Urwah Hassan,BSCSSP21
+68,Ms. Urwah Hassan,BSCSSP21M

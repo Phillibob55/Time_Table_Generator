@@ -1,0 +1,2 @@
+C:\Users\Muhammad Luqman\source\repos\TimeTableGenerator2\x64\Release\TimeTableGenerator2.exe
+C:\Users\Muhammad Luqman\Desktop\TimeTable\TimeTableGenerator2\x64\Release\TimeTableGenerator2.exe
