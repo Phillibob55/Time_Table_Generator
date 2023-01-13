@@ -1,6 +1,6 @@
 # TIME_TABLE_GENERATOR
 
-This is a simple time table generator for Any educational institution. It is written in python and uses the Libxl library for writing to excel. files.
+This is a simple time table generator for Any educational institution. It is written in C++ and uses the Libxl library for writing to excel. files.
 
 ## Pre-requisites
 
